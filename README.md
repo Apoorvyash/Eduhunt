@@ -10,6 +10,8 @@ The technology used in this website are given below-
 4.mongodb
 5.I'm going to integrate react in near future.
 The screenshots of the site are hereby attached for user's reference.
+![](https://github.com/Apoorvyash/Eduhunt/blob/main/eduhunt%20screen%20shots/main.png)
+![](https://github.com/Apoorvyash/Eduhunt/blob/main/eduhunt%20screen%20shots/courses.png)
 ![](https://github.com/Apoorvyash/Eduhunt/blob/main/eduhunt%20screen%20shots/categories.png)
 
 
